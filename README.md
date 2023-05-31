@@ -44,7 +44,7 @@ As a security/defense analyst, try to find out the hot zone of terrorism.
 
 **Dataset Link:** https://bit.ly/2TK5Xn5
 
-**LinkedIn Posted Link:** dbfg kufg
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task5-datascience-activity-7069786563504746496-I3Hg?utm_source=share&utm_medium=member_desktop
 
 # TASK - 6
 ### Prediction using Decision Tree Algorithm
@@ -52,8 +52,7 @@ Creating the Decision Tree classifier and visualize it graphically. The purpose 
 
 **Dataset Link:** https://bit.ly/3kXTdox
 
-**LinkedIn Posted Link:** dbfg kufg
-
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task6-datascience-activity-7069787634100842496-2AkL?utm_source=share&utm_medium=member_desktop
 # ADVANCED LEVEL TASK
 # TASK - 7
 ### Develop A Neural Network That Can Read Handwriting
@@ -61,7 +60,7 @@ Begin my neural network machine learning project with the MNIST Handwritten Digi
 
 **Dataset Link:** https://en.wikipedia.org/wiki/MNIST_database
 
-**LinkedIn Posted Link:** dbfg kufg
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/activity-7069783154009473024-3s2F?utm_source=share&utm_medium=member_desktop
 
 # TASK - 8
 ### Next Word Prediction
@@ -69,7 +68,7 @@ Using Tensorflow and Keras library train a RNN, to predict the next word.
 
 **Dataset Link:** https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
 
-**LinkedIn Posted Link:** dbfg kufg
+**LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task8-datascience-activity-7069783684035358720-m0sD?utm_source=share&utm_medium=member_desktop
 
 # TASK - 9
 ### Handwritten equation solver using CNN
