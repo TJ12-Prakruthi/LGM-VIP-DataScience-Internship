@@ -53,6 +53,7 @@ Creating the Decision Tree classifier and visualize it graphically. The purpose 
 **Dataset Link:** https://bit.ly/3kXTdox
 
 **LinkedIn Posted Link:** https://www.linkedin.com/posts/t-j-prakruthi-a16b21254_connections-task6-datascience-activity-7069787634100842496-2AkL?utm_source=share&utm_medium=member_desktop
+
 # ADVANCED LEVEL TASK
 # TASK - 7
 ### Develop A Neural Network That Can Read Handwriting
