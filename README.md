@@ -77,7 +77,7 @@ Mathematical equation solver using character and symbol recognition using image 
 
 **Dataset Link:**  https://www.kaggle.com/xainano/handwrittenmathsymbols
 
-**LinkedIn Posted Link:** dbfg kufg
+**LinkedIn Posted Link:** 
 
 # MORE ADVANCED LEVEL TASK
 # TASK - 10
@@ -87,7 +87,7 @@ Mathematical equation solver using character and symbol recognition using image 
  
 **Dataset Link:**  https://www.kaggle.com/msambare/fer2013
 
-**LinkedIn Posted Link:** dbfg kufg
+**LinkedIn Posted Link:** 
 
 
 
