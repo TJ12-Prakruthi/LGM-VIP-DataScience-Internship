@@ -77,17 +77,11 @@ Mathematical equation solver using character and symbol recognition using image 
 
 **Dataset Link:**  https://www.kaggle.com/xainano/handwrittenmathsymbols
 
-**LinkedIn Posted Link:** 
-
 # MORE ADVANCED LEVEL TASK
 # TASK - 10
 ### ML Facial Recognition to detect mood and suggest songs accordingly
 
-
- 
 **Dataset Link:**  https://www.kaggle.com/msambare/fer2013
-
-**LinkedIn Posted Link:** 
 
 
 
